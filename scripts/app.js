@@ -1,4 +1,4 @@
-use strict';
+'use strict';
 var app = angular.module('angularRestfulAuth', ['ngStorage',
     'ngRoute',
     'google-maps'] );
